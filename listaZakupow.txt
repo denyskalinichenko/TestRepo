@@ -1,3 +1,4 @@
 Chleb - 3.00
 Jaja  - 7.00
 Maslo - 10.0
+Ryz   - 15.0
